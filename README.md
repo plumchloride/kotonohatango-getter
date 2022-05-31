@@ -2,10 +2,12 @@
 ことのはたんごのプレイヤーの集計データを可視化できるPython Package。  
 Python Package for visualization of aggregate data of players in "Kotoha Tango".
 
+[ことのはたんご](https://plum-chloride.jp/kotonoha-tango/index.html)
+
 ## Example of use
 ```
-pip install kotonohatango-getter
-python kg.py 20
+pip install kotonohagetter
+python kotonohagetter.py 20
 ```
 usage: kg.py [-h] [--F F] Number  
 visualization of aggregate data of players in Kotoha Tango  
