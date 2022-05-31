@@ -4,7 +4,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="kotonohatango-getter",
+    name="kotonohagetter",
     version="0.0.1",
     author="rikito ohnishi",
     author_email="ohnishi.rikito@gmail.com",
@@ -26,7 +26,7 @@ setuptools.setup(
     python_requires=">=3.7",
     entry_points = {
         'console_scripts': [
-            'kg = kg:main'
+            'kotonoha-getter = kotonoha-getter:main'
         ]
     },
 )
