@@ -26,7 +26,7 @@ setuptools.setup(
     python_requires=">=3.7",
     entry_points = {
         'console_scripts': [
-            'kotonohatango-getter = kotonohatango-getter:main'
+            'kg = kg:main'
         ]
     },
 )
