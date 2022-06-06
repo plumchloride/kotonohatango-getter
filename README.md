@@ -11,7 +11,7 @@ Python Package for visualization of aggregate data of players in "Kotoha Tango".
 pip install kotonohagetter
 python kotonohagetter.py 20
 ```
-usage: kg.py [-h] [--F F] Number  
+usage: kotonohagetter.py [-h] [--F F] Number  
 visualization of aggregate data of players in Kotoha Tango  
 positional arguments:  
 　Number      Get the [Number]th data.(int)  
